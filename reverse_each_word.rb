@@ -6,6 +6,6 @@ array.collect do |word|
   
   
 end
-array.join(" ")
+
 end
 

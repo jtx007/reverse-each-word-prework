@@ -6,6 +6,6 @@ array.each do |word|
   new_array << new_word
   
 end
-new_array
+new_array.join
 end
 
